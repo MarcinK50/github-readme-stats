@@ -320,3 +320,5 @@ Thanks! :heart:
 Contributions are welcomed! <3
 
 Made with :heart: and JavaScript.
+
+forked by MarcinK50
